@@ -1,7 +1,11 @@
 # Salient Object Detection for Panoramic Images Dataset (SalPan)
-if you use this dataset.
+
+If you use this dataset.
+
 Please cite as:
+
 arXiv:1710.04071 [cs.CV]
+
 
 
   @misc{1710.04071,
