@@ -17,4 +17,4 @@ arXiv:1710.04071 [cs.CV]
 }
 
 # Source Code Available
-If you want source code, please contact: zhuchunbiao@pku.edu.cn
+Open source will soon be public.
