@@ -16,6 +16,7 @@ arXiv:1710.04071 [cs.CV]
     eprint = {1710.04071},
     note = {arXiv:1710.04071v1}
   }
+A Full Dataset will soon be released to the public.
 
 # Source Code Available
 Open source will soon be released to the public.
